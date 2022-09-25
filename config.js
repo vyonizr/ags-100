@@ -1,0 +1,10 @@
+module.exports = {
+  OPERAND_LIST: ['ADD', 'SUB'],
+  MIN_MODULE: 2,
+  MAX_MODULE: 3,
+  MIN_NUMBER: 0,
+  MAX_NUMBER: 50,
+  MAX_SERIES_LENGTH: 10,
+  MIN_OP_VALUE: 0,
+  MAX_OP_VALUE: 15,
+}
